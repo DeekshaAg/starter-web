@@ -17,3 +17,7 @@ It is a simple starter website used as a dummy project
 ## How to Deploy
 
 This is a simple website that can be deployed on any server.
+
+### Copyright
+
+This is a copyright notice.
