@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+	I would like to thank everyone from the master branch
 
 # TECHNOLOGY COLOPHON
 
