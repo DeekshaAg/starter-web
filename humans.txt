@@ -9,7 +9,8 @@
 # THANKS
 
     <name>
-	I would like to thank everyone from the master branch
+	I would like to thank everyone from the master branch.
+	This was after rebase.
 
 # TECHNOLOGY COLOPHON
 
