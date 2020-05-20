@@ -12,7 +12,7 @@ Sample website with plenty of files for demos for understanding various areas in
 It is a simple starter website used as a dummy project
 
 ## How to Contribute
-
+Please fork this repository and then issue pull requests for review
 
 ## How to Deploy
 
