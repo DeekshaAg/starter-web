@@ -6,3 +6,5 @@ This is a last minute change.
 
 These are changes from the bigtrouble branch.
 This is a change from master after bigtrouble branch was created.
+
+This is the last change after resolving rebase conflicts.
