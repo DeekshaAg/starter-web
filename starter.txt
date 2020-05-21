@@ -10,3 +10,5 @@ This is a change from master after bigtrouble branch was created.
 This is the last change after resolving rebase conflicts.
 
 We have come to make some changes in the local repository.
+
+We are here to stash some data
